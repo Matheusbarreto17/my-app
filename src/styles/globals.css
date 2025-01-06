@@ -2,6 +2,15 @@
   margin: 0;
   padding: 0%;
   box-sizing: border-box;
-  background-color: rgb(28, 29, 29);
   font-family: 'Arial', sans-serif;
+}
+
+footer {
+  min-height: 5vh;
+  padding: 30px;
+  display: flex;
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f3f6;
 }
